@@ -15,4 +15,4 @@ Generate fake data using Faker.js in a Node application. You can use this reposi
 **Main Webpage**
 ![Main Webpage](fakedata-home.ejs-webpage.png?raw=true "Results Webpage")
 
-View the steps [here](https://franciskaguongo.github.io/Generate-a-QR-code-in-Node.js/).
+View the steps in the webpage found [here](https://justusmbuvi.github.io/Faker.js-node-application/).
